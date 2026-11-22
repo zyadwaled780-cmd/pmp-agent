@@ -9,7 +9,7 @@ Try the app immediately in **offline demo mode** (no API key or external account
 
 1. **Clone the repository** and open its folder:
    ```bat
-   git clone <your-private-repo-url>
+   git clone https://github.com/zyadwaled780-cmd/pmp-agent.git
    cd pmp-agent
    ```
 2. **Run `setup_windows.bat` once** (double-click it or run it in Command Prompt) to verify Python 3.11+, create a local `.venv`, and install runtime dependencies from `requirements.txt` (handles paths with spaces; no admin rights needed).
